@@ -1,0 +1,7 @@
+{
+  "name": "Persona AI - Elite Style Studio",
+  "description": "High-end AI image transformation app to turn your photos into cinematic art with 100+ professional styles.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
